@@ -17,7 +17,7 @@ $ npm install sails-elastic
 
 ```js
 {
-    adapter: 'sails-elastic',
+    adapter: '@sgadekar81/sails-elastic'',
     hosts: ['http://127.0.0.1:9200'],
     keepAlive: false,
     sniffOnStart: true,
